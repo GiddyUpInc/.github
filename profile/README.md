@@ -4,7 +4,9 @@
 
 GiddyUp is the product of some serious horseplay ar ngleac na lads.
 
-We aim to wrangle up some solutions and reign in some cantankerous problems.
+We aim to wrangle up some stable solutions and stirrup some trouble in the machine learning world.
+
+Saddle up and get ready for the mane event.
 
 Welcome.
 
